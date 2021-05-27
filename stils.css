@@ -1,0 +1,21 @@
+body{
+    background-color: Azure;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+h1{
+    color: darkblue;
+    font: fantasy;
+}
+h2{
+    color: darkblue;
+    font: fantasy;
+}
+p{
+    color: Maroon;
+    font: icon;
+    font-size: 120%;
+}
+
